@@ -55,4 +55,8 @@ aggregate functions to identify high-performing students across different cities
 - Improved hands-on experience with SQL query execution and result verification.
 
 ## Screenshots
-(Add screenshots here)
+### Input table
+![Input_table](screenshots/experiment1/table.png)
+
+### Without Case Statement
+![Without_case](screenshots/experiment1/query_output.png)
