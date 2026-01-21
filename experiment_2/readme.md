@@ -56,13 +56,13 @@ aggregate functions to identify high-performing students across different cities
 
 ## Screenshots
 ### Input table
-![Input_table](experiment_2/screenshots/photo1.png)
+![Input_table](screenshots/photo1.png)
 
 ### Without Case Statement
-![Without_case](experiment_2/screenshots/photo2.png)
+![Without_case](screenshots/photo2.png)
 
 ### With case statement
-![with_case](experiment_2/screenshots/photo3.png)
+![with_case](screenshots/photo3.png)
 
 ### Percentage above 95
-![percentage](experiment_2/screenshots/photo4.png)
+![percentage](screenshots/photo4.png)
