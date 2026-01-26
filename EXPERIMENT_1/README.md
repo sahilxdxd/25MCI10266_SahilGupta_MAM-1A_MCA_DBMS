@@ -42,24 +42,24 @@ An organization wants to design a sample database system to manage Departments, 
 - All operations were verified through appropriate output queries and permission checks.
 
 ## Practical steps of the Experiment
-###1.	Database Design
+### 1.	Database Design
 ○	Create multiple tables such as Department, Employee, and Project.
 ○	Define appropriate PRIMARY KEY and FOREIGN KEY constraints.
 ○	Enforce NOT NULL, UNIQUE, and CHECK constraints where necessary.
 
-###2.	Data Manipulation
+### 2.	Data Manipulation
 ○	Insert sample records into all tables.
 ○	Perform UPDATE operations to modify existing records.
 ○	Perform DELETE operations while maintaining referential integrity.
 
-###3.	Access Control & Security
+### 3.	Access Control & Security
 ○	Create a role/user for a reporting staff member.
 ○	Grant ONLY SELECT privilege on required tables to this role/user.
 ○	Explicitly REVOKE CREATE privilege so that the user cannot create any database objects.
 ○	Ensure the user has read-only access to the database.
 
 
-###4.	Schema Modification
+### 4.	Schema Modification
 ○	Use ALTER TABLE to add or modify a column.
 ○	Drop a table that is no longer required using DROP TABLE.
 
