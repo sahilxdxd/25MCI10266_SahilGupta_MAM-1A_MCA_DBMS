@@ -108,15 +108,15 @@ An organization wants to design a sample database system to manage Departments, 
 ### Step 7: After creating role Providing Grant permission to HR and Revoke permission from the HR
 ![Select Output](screenshots/6.png)
 
-### Step 9: Permission denied (because of REVOKE) on the HR 
+### Step 8: Permission denied (because of REVOKE) on the HR 
 ![Update Output](screenshots/7.png)
 
-### Step 10: Role(HR) tries to access data from other table
+### Step 9: Role(HR) tries to access data from other table
 ![Update Output](screenshots/8.png)
 
 ### Step 10: Role(HR) ALTER the table project by adding a new column
 ![Update Output](screenshots/9.png)
 
-### Step 10: Delete or Dropping the table (project) from HR 
+### Step 11: Delete or Dropping the table (project) from HR 
 ![Update Output](screenshots/10.png)
 
