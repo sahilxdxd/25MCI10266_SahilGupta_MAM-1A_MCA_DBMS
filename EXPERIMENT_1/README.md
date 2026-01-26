@@ -88,7 +88,7 @@ An organization wants to design a sample database system to manage Departments, 
 
 ## Screenshots
 ### Step 1: Department Table 
-![Department Table](screenshots/p1.png)
+![Department Table](screenshots/Screenshot 2026-01-26 133843.png)
 
 ### Step 2: Employee Table 
 ![Employee Table](screenshots/p2.png)
