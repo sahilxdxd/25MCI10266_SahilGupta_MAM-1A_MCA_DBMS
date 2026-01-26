@@ -84,5 +84,6 @@ HAVING SUM(price) > 80000;
 SELECT product,
 SUM(price) AS total_sales
 FROM Orders
+WHERE price > 30000          -- Row-level filtering
 GROUP BY product
-HAVING SUM(price) > 80000;
+HAVING SUM(price) > 80000;   -- Group-level filtering
