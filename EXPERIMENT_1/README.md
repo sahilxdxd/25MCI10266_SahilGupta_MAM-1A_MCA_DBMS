@@ -88,28 +88,35 @@ An organization wants to design a sample database system to manage Departments, 
 
 ## Screenshots
 ### Step 1: Department Table 
-![Department Table](screenshots/Screenshot 2026-01-26 133843.png)
+![Department Table](screenshots/1.png)
 
 ### Step 2: Employee Table 
-![Employee Table](screenshots/p2.png)
+![Employee Table](screenshots/2.png)
 
 ### Step 3: Project Table 
-![Project Table](screenshots/p3.png)
+![Project Table](screenshots/3.png)
 
-### Step 4: UPDATE on Employee table
-![Insert Department](screenshots/p4.png)
+### Step 4: UPDATE and DELETE on Employee table
+![Insert Department](screenshots/4.png)
 
-### Step 5: Delete on Employee table
-![Insert Employee](screenshots/p5.png)
+### Step 5: After updation and deletion(employee table)
+![Insert Employee](screenshots/5.png)
 
-### Step 6: After updation and deletion(employee table)
-![Insert Project](screenshots/p6.png)
+### Step 6: Creating role and accessing applying role in query tool
+![Insert Project](screenshots/5_5.png)
 
-### Step 7: After creating role Providing Grant permission to the HR
-![Select Output](screenshots/p7.png)
-
-### Step 8: Revoking the select permission from HR using REVOKE
-![Update Output](screenshots/p8.png)
+### Step 7: After creating role Providing Grant permission to HR and Revoke permission from the HR
+![Select Output](screenshots/6.png)
 
 ### Step 9: Permission denied (because of REVOKE) on the HR 
-![Delete Output](screenshots/p9.png)
+![Update Output](screenshots/7.png)
+
+### Step 10: Role(HR) tries to access data from other table
+![Update Output](screenshots/8.png)
+
+### Step 10: Role(HR) ALTER the table project by adding a new column
+![Update Output](screenshots/9.png)
+
+### Step 10: Delete or Dropping the table (project) from HR 
+![Update Output](screenshots/10.png)
+
