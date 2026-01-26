@@ -103,13 +103,16 @@ Observation: Understanding execution order prevents common SQL mistakes frequent
 ![t3](screenshots/3.png)
 
 - Sorting in descending order
+  
 ![t4](screenshots/4.png)
 
 - Sort using multiple attributes (product, then price)
+  
 ![t5](screenshots/5.png)
 
 ### Step 4: Grouping Data for Aggregation
 - Calculate total sales for each product
+  
 ![t6](screenshots/6.png)
 
 ### Step 5: Applying Conditions on Aggregated Data
