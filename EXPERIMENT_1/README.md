@@ -16,7 +16,7 @@ integrity and secure access for authorized users.
 • To provide controlled and secure access using role-based privileges
 • To gain hands-on experience using PostgreSQL in a real database environment
 
-##S/W Requirement 
+## S/W Requirement 
 Oracle Database Express Edition and  pgAdmin
 
 ## Objectives
@@ -24,7 +24,7 @@ To gain practical experience in implementing Data Definition Language (DDL), Dat
 Given:
 An organization wants to design a sample database system to manage Departments, Employees, and Projects. The database must ensure data integrity, controlled access, and proper privilege management for different users.
 
-##Procedure of the Experiment
+## Procedure of the Experiment
 
 - The PostgreSQL database server was started and the pgAdmin tool was opened to execute SQL commands.
 - A relational database structure was designed by creating three tables: Department, Employee, and Project, using Data Definition Language (DDL) commands.
