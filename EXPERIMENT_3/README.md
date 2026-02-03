@@ -1,4 +1,4 @@
-# Experiment 1
+# Experiment 3
 
 ## Aim of the Session
 To implement conditional decision-making logic in PostgreSQL using IF–ELSE constructs and CASE expressions for classification, validation, and rule-based data processing.
