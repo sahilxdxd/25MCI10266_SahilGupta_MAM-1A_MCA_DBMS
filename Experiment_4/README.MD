@@ -1,4 +1,4 @@
-# Experiment 1
+# Experiment 4
 
 ## Aim of the Session
 To understand and implement iterative control structures in PostgreSQL conceptually, including FOR loops, WHILE loops, and basic LOOP constructs, for repeated execution of database logic.
