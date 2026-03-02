@@ -73,7 +73,7 @@ INSERT INTO employee(emp_name, salary, status, dept_id) VALUES
 ### Department Table Employee Table
 
 
-![]((images/1.png))
+![](images/1.png)
 ![](images/2.png)
 
 ---
