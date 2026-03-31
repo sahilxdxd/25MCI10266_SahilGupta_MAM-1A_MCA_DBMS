@@ -27,7 +27,7 @@ updating, deletion, and retrieval of data efficiently, securely, and in a reusab
 ---
 
 ## OBJECTIVES
-Apply stored procedure concepts for database operations
+- Apply stored procedure concepts for database operations
 ---
 
 # Practical / Experiment Steps
