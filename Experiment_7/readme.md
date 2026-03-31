@@ -87,8 +87,14 @@ INSERT INTO Departments VALUES (103, 'ECE');
 ```
 
 <img width="452" height="354" alt="Students" src="https://github.com/user-attachments/assets/08f9d0e8-5d1b-460c-8c9e-0b4c0369eef6" />
+
+---
 <img width="411" height="229" alt="Courses" src="https://github.com/user-attachments/assets/d0c880f3-3d1d-43c7-b7b4-a392d3817b4f" />
+
+---
 <img width="426" height="244" alt="Departments" src="https://github.com/user-attachments/assets/5b292087-727e-4873-8a30-e5246e350349" />
+
+---
 <img width="423" height="266" alt="Enrollments" src="https://github.com/user-attachments/assets/bf6c67cc-7a7a-461d-8c00-54b1b7c91b48" />
 
 ---
