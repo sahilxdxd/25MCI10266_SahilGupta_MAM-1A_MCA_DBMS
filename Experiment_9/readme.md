@@ -67,10 +67,9 @@ CREATE TABLE employee (
  total_payable_amount NUMERIC
 );
 ```
-<img width="705" height="213" alt="image" src="https://github.com/user-attachments/assets/25ff5feb-c77d-430a-b7c3-7b7527a20f15" />
+<img width="868" height="263" alt="isnert" src="https://github.com/user-attachments/assets/f3d03f94-c556-4da0-aac3-4a4e491f7026" />
 
 ## **Step 2: Create Trigger Function**
-
 
 ```
 
@@ -90,7 +89,8 @@ END;
 $$ LANGUAGE PLPGSQL;
 ```
 
-<img width="1055" height="214" alt="image" src="https://github.com/user-attachments/assets/64a184ca-2e1c-4f15-98e1-e808e6ebf6c6" />
+<img width="509" height="188" alt="created function" src="https://github.com/user-attachments/assets/6e074cdc-aff9-478c-8ff8-a38f930f5177" />
+
 
 ## **Step 3: Create Trigger**
 
@@ -103,6 +103,8 @@ FOR EACH ROW
 EXECUTE FUNCTION CACULATE_PAYABLE_AMOUNT();
 ```
 
+<img width="427" height="134" alt="creatd trigger" src="https://github.com/user-attachments/assets/2ab7b6ac-1966-4de3-aad5-2333003a6b2e" />
+
 
 ## **Step 4: Insert Valid Data**
 
@@ -113,12 +115,9 @@ VALUES (1, 'AKASH', 10, 1000)
 <img width="1055" height="281" alt="image" src="https://github.com/user-attachments/assets/2c773fd0-e6e6-4936-a3b8-146399632c2d" />
 
 
-📘 Learning Outcomes
+## Learning Outcomes
 
 1.Ability to create and implement triggers in PostgreSQL
-
 2.Understanding of automated calculations using triggers
-
 3.Ability to enforce constraints dynamically
-
 4.Understanding real-time execution of database logic
