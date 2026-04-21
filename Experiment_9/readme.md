@@ -4,8 +4,8 @@
 ---
 
 ## 👨‍🎓 **Student Details**  
-**Name:** Arnab Lala  
-**UID:** 25MCI10232  
+**Name:** Sahil Gupta  
+**UID:** 25MCI10266 
 **Branch:** MCA (AI & ML)  
 **Semester:** Sem - 2  
 **Section/Group:** MAM-1 A  
