@@ -93,9 +93,12 @@ ROLLBACK TO sp1;
 COMMIT;
 ```
 ## OUTPUTS
+
 ### updates :
 <img width="583" height="401" alt="upadate 1 " src="https://github.com/user-attachments/assets/662b9f19-f536-4524-8228-24e40be89ecd" />
+
 ### rollback :
 <img width="427" height="139" alt="savepoint " src="https://github.com/user-attachments/assets/e7d1ed5f-19eb-46d5-9a88-b8539d33d766" />
+
 ### output table : 
 <img width="543" height="249" alt="table after rollback" src="https://github.com/user-attachments/assets/e1b3d90b-aba1-4b0c-bf0c-feba2145b47d" />
